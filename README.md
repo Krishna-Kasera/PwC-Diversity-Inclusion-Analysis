@@ -19,6 +19,7 @@ This project analyzes diversity and inclusion metrics for PhoneNow, focusing on 
 ## Repository Structure 📂
 ```
 📁 PwC-Diversity-Inclusion-Analysis/
+├─ 📄README.md
 ├─ 📁 Dashboard/                         
 │  └─ 📄 diversity_dashboard.pbix       # Interactive Power BI dashboard with dynamic filters
 ├─ 📁 Report/                            
