@@ -16,11 +16,16 @@ This project analyzes diversity and inclusion metrics for PhoneNow, focusing on 
 4. 📍 Geographic concentration in Switzerland and Europe
 5. 🔻 Significant drop in female participation in 30-39 age group
 
-## Project Components 📂
-- **Dashboard**: Interactive Power BI visualization in `diversity_dashboard.pbix`
-- **Report**: Comprehensive analysis in `Analysis_Report.pdf`
-- **Data**: Source files in `diversity_data.xlsx`
-- **Measures**: Custom DAX queries in `measures.txt`
+## Repository Structure 📂
+PwC-Diversity-Inclusion-Analysis/
+├─ 📁 Dashboard/                         
+│  └─ 📄 diversity_dashboard.pbix       # Interactive Power BI dashboard with dynamic filters
+├─ 📁 Report/                            
+│  └─ 📄 Analysis_Report.pdf            # Comprehensive analysis with findings and recommendations
+├─ 📁 Data/                             
+│  └─ 📄 diversity_data.xlsx            # Source data
+└─ 📁 Measures/                      
+   └─ 📄 measures.txt                   # DAX queries for custom metrics definitions
 
 ## Usage 🖥️
 1. 🔗 **Clone Repository**: Clone this repository to your local system.
