@@ -17,7 +17,8 @@ This project analyzes diversity and inclusion metrics for PhoneNow, focusing on 
 5. 🔻 Significant drop in female participation in 30-39 age group
 
 ## Repository Structure 📂
-```PwC-Diversity-Inclusion-Analysis/
+```
+📁 PwC-Diversity-Inclusion-Analysis/
 ├─ 📁 Dashboard/                         
 │  └─ 📄 diversity_dashboard.pbix       # Interactive Power BI dashboard with dynamic filters
 ├─ 📁 Report/                            
